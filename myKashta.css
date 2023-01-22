@@ -1,0 +1,24 @@
+
+table{
+    margin-top: 16vh;;
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 12px 12px 0 0;
+    border-spacing: 2px;
+    background: #ffbf365f;
+    text-align: center;
+    color: #737373;
+
+}
+th,td{
+    padding: 12px 15px;
+    font-size: 18px;
+}
+th{
+    background: #ffbf36c3;
+    text-transform: uppercase;
+    color: #5c5c5c;
+}
+tr:nth-child(odd){
+    background-color: #73737354;
+}

@@ -1,0 +1,36 @@
+
+* 
+{
+  font-family: serif;
+}
+.container 
+{
+  margin-top: 18vh;
+  margin-bottom: 10vh;
+  color: #44514d;
+  font-size: 20px;
+  font-weight: bold;
+}
+h6 
+{
+  color: #44514d;
+  font-size: 10px;
+  font-family: serif;
+}
+h4 
+{
+  color: #44514d;
+}
+p 
+{
+  font-size: 16px;
+  font-family: serif;
+  color: #44514d;
+}
+input[type="date"],
+input[type="time"],
+input[type="radio"] 
+{
+  font-size: 14px;
+  font-family: serif;
+}
